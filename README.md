@@ -1,2 +1,2 @@
-# android_kernel_m7_gpe
+# android_kernel_5.0.x_m7_uni
 M7-UNI
